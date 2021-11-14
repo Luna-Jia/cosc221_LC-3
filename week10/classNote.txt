@@ -1,0 +1,11 @@
+11/4/2021 周四
+ Traps & Subroutines 
+ service routine 
+ GETC
+ OUT
+ PUTS
+ IN
+ PUTS
+ 
+ 问题：
+ 啥是trap？干啥用的？
